@@ -33,7 +33,7 @@ build: [
 ]
 dev-repo: "git+https://github.com/esy/esy.git"
 pin-depends: [
-  ["bos.dev" "git+https://github.com/esy-ocaml/bos.git#90364d00"]
+  ["bos.dev" "git+https://github.com/esy-ocaml/bos.git#90364d003f7adc37826cf958b67536a7afdfebae"]
   [
   "cli.dev"
   "git+https://github.com/reasonml/reason-native.git#20b1997b6451d9715dfdbeec86a9d274c7430ed8"
